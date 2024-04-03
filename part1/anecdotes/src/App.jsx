@@ -22,7 +22,6 @@ const App = () => {
     setPoints(copy)
   }
    
-
   return (
     <div>
       <div>
